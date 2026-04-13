@@ -296,14 +296,14 @@ blockquote {
 	font-style: italic;
 	font-size: 14px;
 	color: #141310;
-	background: #e7e6e2 url(/wp-content/themes/vigilance-wpcom/images/blockquote.gif) no-repeat top left;
+	background: #e7e6e2 url(https://sonnyfrazee.github.io/blog/wp-content/themes/vigilance-wpcom/images/blockquote.gif) no-repeat top left;
 }
 .entry ul, .c-body ul { margin: 0 0 10px 10px; }
 .entry ul li, .c-body ul li {
 	display: block;
 	margin: 5px 0 0 0;
 	padding: 0 0 0 17px;
-	background: url(/wp-content/themes/vigilance-wpcom/images/list-star.gif) no-repeat 0 .3em;
+	background: url(https://sonnyfrazee.github.io/blog/wp-content/themes/vigilance-wpcom/images/list-star.gif) no-repeat 0 .3em;
 }
 .sd-content ul > li {
 	background: none;
@@ -343,7 +343,7 @@ blockquote {
 	font-size: 1.2em;
 	font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans", Verdana, Arial, sans-serif;
 	line-height: 1.3em;
-	background: url(/wp-content/themes/vigilance-wpcom/images/float-quote.gif) no-repeat top left;
+	background: url(https://sonnyfrazee.github.io/blog/wp-content/themes/vigilance-wpcom/images/float-quote.gif) no-repeat top left;
 }
 .highlight-box {
 	float: right;
@@ -367,7 +367,7 @@ blockquote {
 }
 .entry .highlight-box ul li {
 	font-size: 1.1em;
-	background: url(/wp-content/themes/vigilance-wpcom/images/list-square.gif) no-repeat 0 .4em;
+	background: url(https://sonnyfrazee.github.io/blog/wp-content/themes/vigilance-wpcom/images/list-square.gif) no-repeat 0 .4em;
 }
 .entry .highlight-box h2, .entry .highlight-box h3, .entry .highlight-box h4 {
 	margin: 0;
@@ -393,7 +393,7 @@ blockquote {
 	text-transform: uppercase;
 }
 .comments a {
-	background: url(/wp-content/themes/vigilance-wpcom/images/comments-bubble.gif) no-repeat 0 4px;
+	background: url(https://sonnyfrazee.github.io/blog/wp-content/themes/vigilance-wpcom/images/comments-bubble.gif) no-repeat 0 4px;
 	display: block;
 	padding: 0 0 0 25px;
 	color: #757575;
@@ -437,11 +437,11 @@ img.archive-comment {
 .entries ul {
 	margin: 0;
 	padding: 0 0 1px 0;
-	background: transparent url(/wp-content/themes/vigilance-wpcom/images/archives-dotted-line.gif) repeat-x bottom left;
+	background: transparent url(https://sonnyfrazee.github.io/blog/wp-content/themes/vigilance-wpcom/images/archives-dotted-line.gif) repeat-x bottom left;
 }
 .entries ul li {
 	padding-top: 1px;
-	background: transparent url(/wp-content/themes/vigilance-wpcom/images/archives-dotted-line.gif) repeat-x top left;
+	background: transparent url(https://sonnyfrazee.github.io/blog/wp-content/themes/vigilance-wpcom/images/archives-dotted-line.gif) repeat-x top left;
 }
 .entries ul li a {
 	display: block;
@@ -504,7 +504,7 @@ ul li.widget ul li ul li { border-bottom: none; }
 ul li.widget ul li a {
 	display: block;
 	padding: 0 0 0 15px;
-	background: url(/wp-content/themes/vigilance-wpcom/images/list-item.gif) no-repeat 0 6px;
+	background: url(https://sonnyfrazee.github.io/blog/wp-content/themes/vigilance-wpcom/images/list-item.gif) no-repeat 0 6px;
 }
 ul li.widget ul li a:hover { background-position: 0 -136px; }
 ul li.widget ul#recentcomments li a {
@@ -528,16 +528,16 @@ li.widget select { margin-top: 10px; }
 	margin: 10px 10px 0 0;
 	display: block;
 	padding: 0 0 0 19px;
-	background: url(/wp-content/themes/vigilance-wpcom/images/feed-icon.png) no-repeat 0 .25em;
+	background: url(https://sonnyfrazee.github.io/blog/wp-content/themes/vigilance-wpcom/images/feed-icon.png) no-repeat 0 .25em;
 }
 #rss-feed a.email {
 	padding: 0 0 0 25px;
-	background: url(/wp-content/themes/vigilance-wpcom/images/mail-icon.png) no-repeat 0 .4em;
+	background: url(https://sonnyfrazee.github.io/blog/wp-content/themes/vigilance-wpcom/images/mail-icon.png) no-repeat 0 .4em;
 }
 #rss-feed a.twitter {
 	margin-right: 0;
 	padding-left: 19px;
-	background: url(/wp-content/themes/vigilance-wpcom/images/twitter-icon.png) no-repeat 0 .15em;
+	background: url(https://sonnyfrazee.github.io/blog/wp-content/themes/vigilance-wpcom/images/twitter-icon.png) no-repeat 0 .15em;
 }
 /*Search Box
 ---------------------------------------*/
@@ -562,7 +562,7 @@ li.widget select { margin-top: 10px; }
 	display: block;
 	font-size: 1.3em;
 	padding: 0 0 10px 30px;
-	background: url(/wp-content/themes/vigilance-wpcom/images/comments-bubble-big.gif) no-repeat 0 .1em;
+	background: url(https://sonnyfrazee.github.io/blog/wp-content/themes/vigilance-wpcom/images/comments-bubble-big.gif) no-repeat 0 .1em;
 }
 .comment-number span {
 	font-size: 1.3em;
@@ -697,7 +697,7 @@ p.subscribe-to-comments, p.comments-rss {
 }
 p.comments-rss a {
 	padding: 0 0 0 19px;
-	background: url(/wp-content/themes/vigilance-wpcom/images/feed-icon.png) no-repeat 0 .15em;
+	background: url(https://sonnyfrazee.github.io/blog/wp-content/themes/vigilance-wpcom/images/feed-icon.png) no-repeat 0 .15em;
 }
 #comments object,
 #comments embed {

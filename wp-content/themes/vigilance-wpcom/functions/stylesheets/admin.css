@@ -37,7 +37,7 @@
 .v-field.pro .v-field-d span {
 	display: block;
 	padding-right: 40px;
-	background: url(/wp-content/themes/vigilance-wpcom/functions/images/pro.png) no-repeat 100% 2px;
+	background: url(https://sonnyfrazee.github.io/blog/wp-content/themes/vigilance-wpcom/functions/images/pro.png) no-repeat 100% 2px;
 }
 .v-field.radio label, .v-field.text label, .v-field.select label, .v-field.textarea label, .v-field.colorpicker label {
 	display: block;
