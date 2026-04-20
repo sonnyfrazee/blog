@@ -47,7 +47,7 @@
                 {
                     "name": "Jordi Boggiano",
                     "email": "j.boggiano@seld.be",
-                    "homepage": "http://seld.be/"
+                    "homepage": "http://seld.be"
                 }
             ],
             "description": "Lets you find a path to the system CA bundle, and includes a fallback to the Mozilla CA bundle.",
@@ -65,7 +65,7 @@
             },
             "funding": [
                 {
-                    "url": "https://packagist.com/",
+                    "url": "https://packagist.com",
                     "type": "custom"
                 },
                 {
@@ -194,7 +194,7 @@
                 }
             ],
             "description": "The Universal Device Detection library, that parses User Agents and detects devices (desktop, tablet, mobile, tv, cars, console, etc.), clients (browsers, media players, mobile apps, feed readers, libraries, etc), operating systems, devices, brands and models.",
-            "homepage": "https://matomo.org/",
+            "homepage": "https://matomo.org",
             "keywords": [
                 "devicedetection",
                 "parser",
